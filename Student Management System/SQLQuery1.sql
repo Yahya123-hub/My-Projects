@@ -1,0 +1,1 @@
+Select Id from Student where status=5

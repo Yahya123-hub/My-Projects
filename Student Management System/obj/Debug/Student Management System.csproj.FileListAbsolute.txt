@@ -1,0 +1,119 @@
+E:\Semester 4\project\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Semester 4\project\Student Management System\bin\Debug\Student Management System.exe
+E:\Semester 4\project\Student Management System\bin\Debug\Student Management System.pdb
+E:\Semester 4\project\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+E:\Semester 4\project\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\project\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+E:\Semester 4\project\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Semester 4\project\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+E:\Semester 4\project\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\Semester 4\project\Student Management System\obj\Debug\Student Management System.exe
+E:\Semester 4\project\Student Management System\obj\Debug\Student Management System.pdb
+E:\Semester 4\project\Student Management System\obj\Debug\Student_Management_System.stdcrud.resources
+E:\Semester 4\project\2\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Semester 4\project\2\Student Management System\bin\Debug\Student Management System.exe
+E:\Semester 4\project\2\Student Management System\bin\Debug\Student Management System.pdb
+E:\Semester 4\project\2\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+E:\Semester 4\project\2\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\project\2\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+E:\Semester 4\project\2\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Semester 4\project\2\Student Management System\obj\Debug\Student_Management_System.stdcrud.resources
+E:\Semester 4\project\2\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+E:\Semester 4\project\2\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\Semester 4\project\2\Student Management System\obj\Debug\Student Management System.exe
+E:\Semester 4\project\2\Student Management System\obj\Debug\Student Management System.pdb
+E:\Semester 4\project\3\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Semester 4\project\3\Student Management System\bin\Debug\Student Management System.exe
+E:\Semester 4\project\3\Student Management System\bin\Debug\Student Management System.pdb
+E:\Semester 4\project\3\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+E:\Semester 4\project\3\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\project\3\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+E:\Semester 4\project\3\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Semester 4\project\3\Student Management System\obj\Debug\Student_Management_System.stdcrud.resources
+E:\Semester 4\project\3\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+E:\Semester 4\project\3\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\Semester 4\project\3\Student Management System\obj\Debug\Student Management System.exe
+E:\Semester 4\project\3\Student Management System\obj\Debug\Student Management System.pdb
+E:\Semester 4\project\4\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Semester 4\project\4\Student Management System\bin\Debug\Student Management System.exe
+E:\Semester 4\project\4\Student Management System\bin\Debug\Student Management System.pdb
+E:\Semester 4\project\4\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+E:\Semester 4\project\4\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\project\4\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+E:\Semester 4\project\4\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Semester 4\project\4\Student Management System\obj\Debug\Student_Management_System.stdcrud.resources
+E:\Semester 4\project\4\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+E:\Semester 4\project\4\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\Semester 4\project\4\Student Management System\obj\Debug\Student Management System.exe
+E:\Semester 4\project\4\Student Management System\obj\Debug\Student Management System.pdb
+E:\Semester 4\project\5\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Semester 4\project\5\Student Management System\bin\Debug\Student Management System.exe
+E:\Semester 4\project\5\Student Management System\bin\Debug\Student Management System.pdb
+E:\Semester 4\project\5\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+E:\Semester 4\project\5\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\project\5\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+E:\Semester 4\project\5\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Semester 4\project\5\Student Management System\obj\Debug\Student_Management_System.stdcrud.resources
+E:\Semester 4\project\5\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+E:\Semester 4\project\5\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\Semester 4\project\5\Student Management System\obj\Debug\Student Management System.exe
+E:\Semester 4\project\5\Student Management System\obj\Debug\Student Management System.pdb
+E:\Semester 4\project\6\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Semester 4\project\6\Student Management System\bin\Debug\Student Management System.exe
+E:\Semester 4\project\6\Student Management System\bin\Debug\Student Management System.pdb
+E:\Semester 4\project\6\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+E:\Semester 4\project\6\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\project\6\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+E:\Semester 4\project\6\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Semester 4\project\6\Student Management System\obj\Debug\Student_Management_System.stdattendance.resources
+E:\Semester 4\project\6\Student Management System\obj\Debug\Student_Management_System.stdcrud.resources
+E:\Semester 4\project\6\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+E:\Semester 4\project\6\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\Semester 4\project\6\Student Management System\obj\Debug\Student Management System.exe
+E:\Semester 4\project\6\Student Management System\obj\Debug\Student Management System.pdb
+E:\Semester 4\db\db-mid-project\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Semester 4\db\db-mid-project\Student Management System\bin\Debug\Student Management System.exe
+E:\Semester 4\db\db-mid-project\Student Management System\bin\Debug\Student Management System.pdb
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.Classattendance.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdac.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdassessment.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdattendance.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdCLO.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdcrud.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdqueries.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdreport.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdresult.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdrubric.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdrubriclevels.resources
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student Management System.exe
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student Management System.pdb
+E:\Semester 4\db\db-mid-project\Student Management System\obj\Debug\Student_Management_System.Result.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\bin\Debug\Student Management System.exe.config
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\bin\Debug\Student Management System.exe
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\bin\Debug\Student Management System.pdb
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.Classattendance.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.Result.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdac.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdassessment.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdattendance.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdCLO.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdcrud.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdqueries.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdreport.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdresult.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdrubric.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student_Management_System.stdrubriclevels.resources
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student Management System.exe
+E:\Semester 4\db\mid project backups\db-mid-project\Student Management System\obj\Debug\Student Management System.pdb
