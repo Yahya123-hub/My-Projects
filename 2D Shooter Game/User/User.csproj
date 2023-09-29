@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D7DE288-05F4-40CE-A58E-0C29CF3DBEC7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>User</RootNamespace>
+    <AssemblyName>User</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EZInput, Version=1.3.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EZInput.1.3.2\lib\netstandard2.0\EZInput.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gameover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gameover.Designer.cs">
+      <DependentUpon>gameover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gameover.resx">
+      <DependentUpon>gameover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\gollemprojectile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Bar-Street-Bosses-Pixel-Art.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Biker_attack3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Bonus score.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\boss inverted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\boss projectile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\boss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\coin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\crouch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\crouchv2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Cyborg_attack1 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Cyborg_attack3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\enemy 2%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\enemy projectile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\enemy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\enemy2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\enemy4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\enemybullet.v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\enemyprojectile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\explosions %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\float.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\gollem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\gollemhurt %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\heart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\idle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\idle.v3 %281%29 c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\idle.v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\imageedit_5_5501050390.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\imageedit_6_9608282126.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\imageedit_27_3272213564.v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\left attack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\left attack.v3 c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\left run.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\left run.v3 c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\left run.v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Life.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\player projectile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\projectile left c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\projectile left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\projectile right v2 c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\projectile right v2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\projectile right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\projectile up c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\projectile up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Punk_attack2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\right attack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\right attack.v3 c %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\right attack.v3 c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\right run.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\right run.v3 c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\right run.v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\rng spawn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\rng spawn.v2 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\rng spawn.v2 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\rng spawn.v2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\rng spawn.v3 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\rng spawn.v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Ship4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Ship6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Ship6inverted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\shoot up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\shoot up.v3 c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\shoot up.v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\Special.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\stage 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\stage 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\taking damage.v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\turretdmg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\turretdmg.v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\right shooter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\right shooter.v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Framework1\Framework1.csproj">
+      <Project>{d4ab98b8-75ba-4504-9ea2-e903bfb52141}</Project>
+      <Name>Framework1</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\IDLE_F.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\drone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Assets\boss1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,46 @@
+E:\Frameworks\1\User\bin\Debug\User.exe.config
+E:\Frameworks\1\User\bin\Debug\User.exe
+E:\Frameworks\1\User\bin\Debug\User.pdb
+E:\Frameworks\1\User\bin\Debug\Framework1.dll
+E:\Frameworks\1\User\bin\Debug\Framework1.pdb
+E:\Frameworks\1\User\obj\Debug\User.csproj.AssemblyReference.cache
+E:\Frameworks\1\User\obj\Debug\User.Form1.resources
+E:\Frameworks\1\User\obj\Debug\User.Properties.Resources.resources
+E:\Frameworks\1\User\obj\Debug\User.csproj.GenerateResource.cache
+E:\Frameworks\1\User\obj\Debug\User.csproj.CoreCompileInputs.cache
+E:\Frameworks\1\User\obj\Debug\User.csproj.CopyComplete
+E:\Frameworks\1\User\obj\Debug\User.exe
+E:\Frameworks\1\User\obj\Debug\User.pdb
+E:\second semester\Frameworks\1\User\bin\Debug\User.exe.config
+E:\second semester\Frameworks\1\User\bin\Debug\User.exe
+E:\second semester\Frameworks\1\User\bin\Debug\User.pdb
+E:\second semester\Frameworks\1\User\bin\Debug\Framework1.dll
+E:\second semester\Frameworks\1\User\bin\Debug\Framework1.pdb
+E:\second semester\Frameworks\1\User\obj\Debug\User.csproj.AssemblyReference.cache
+E:\second semester\Frameworks\1\User\obj\Debug\User.Form1.resources
+E:\second semester\Frameworks\1\User\obj\Debug\User.Properties.Resources.resources
+E:\second semester\Frameworks\1\User\obj\Debug\User.csproj.GenerateResource.cache
+E:\second semester\Frameworks\1\User\obj\Debug\User.csproj.CoreCompileInputs.cache
+E:\second semester\Frameworks\1\User\obj\Debug\User.csproj.CopyComplete
+E:\second semester\Frameworks\1\User\obj\Debug\User.exe
+E:\second semester\Frameworks\1\User\obj\Debug\User.pdb
+E:\second semester\Frameworks\1\User\bin\Debug\EZInput.dll
+E:\second semester\Frameworks\1\User\bin\Debug\EZInput.xml
+E:\second semester\Frameworks\1\User\obj\Debug\User.Form2.resources
+F:\Frameworks\1\User\bin\Debug\User.exe.config
+F:\Frameworks\1\User\bin\Debug\User.exe
+F:\Frameworks\1\User\bin\Debug\User.pdb
+F:\Frameworks\1\User\bin\Debug\EZInput.dll
+F:\Frameworks\1\User\bin\Debug\Framework1.dll
+F:\Frameworks\1\User\bin\Debug\Framework1.pdb
+F:\Frameworks\1\User\bin\Debug\EZInput.xml
+F:\Frameworks\1\User\obj\Debug\User.csproj.AssemblyReference.cache
+F:\Frameworks\1\User\obj\Debug\User.Form1.resources
+F:\Frameworks\1\User\obj\Debug\User.Form2.resources
+F:\Frameworks\1\User\obj\Debug\User.Properties.Resources.resources
+F:\Frameworks\1\User\obj\Debug\User.csproj.GenerateResource.cache
+F:\Frameworks\1\User\obj\Debug\User.csproj.CoreCompileInputs.cache
+F:\Frameworks\1\User\obj\Debug\User.csproj.CopyComplete
+F:\Frameworks\1\User\obj\Debug\User.exe
+F:\Frameworks\1\User\obj\Debug\User.pdb
+E:\second semester\Frameworks\1\User\obj\Debug\User.gameover.resources

@@ -1,0 +1,22 @@
+E:\Frameworks\1\Framework1\bin\Debug\Framework1.dll
+E:\Frameworks\1\Framework1\bin\Debug\Framework1.pdb
+E:\Frameworks\1\Framework1\obj\Debug\Framework1.csproj.AssemblyReference.cache
+E:\Frameworks\1\Framework1\obj\Debug\Framework1.csproj.CoreCompileInputs.cache
+E:\Frameworks\1\Framework1\obj\Debug\Framework1.dll
+E:\Frameworks\1\Framework1\obj\Debug\Framework1.pdb
+E:\second semester\Frameworks\1\Framework1\bin\Debug\Framework1.dll
+E:\second semester\Frameworks\1\Framework1\bin\Debug\Framework1.pdb
+E:\second semester\Frameworks\1\Framework1\obj\Debug\Framework1.csproj.AssemblyReference.cache
+E:\second semester\Frameworks\1\Framework1\obj\Debug\Framework1.csproj.CoreCompileInputs.cache
+E:\second semester\Frameworks\1\Framework1\obj\Debug\Framework1.dll
+E:\second semester\Frameworks\1\Framework1\obj\Debug\Framework1.pdb
+E:\second semester\Frameworks\1\Framework1\obj\Debug\Framework1.Properties.Resources.resources
+E:\second semester\Frameworks\1\Framework1\obj\Debug\Framework1.csproj.GenerateResource.cache
+F:\Frameworks\1\Framework1\bin\Debug\Framework1.dll
+F:\Frameworks\1\Framework1\bin\Debug\Framework1.pdb
+F:\Frameworks\1\Framework1\obj\Debug\Framework1.csproj.AssemblyReference.cache
+F:\Frameworks\1\Framework1\obj\Debug\Framework1.Properties.Resources.resources
+F:\Frameworks\1\Framework1\obj\Debug\Framework1.csproj.GenerateResource.cache
+F:\Frameworks\1\Framework1\obj\Debug\Framework1.csproj.CoreCompileInputs.cache
+F:\Frameworks\1\Framework1\obj\Debug\Framework1.dll
+F:\Frameworks\1\Framework1\obj\Debug\Framework1.pdb
