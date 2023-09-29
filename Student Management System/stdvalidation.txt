@@ -1,0 +1,69 @@
+ if (string.IsNullOrEmpty(stdfname_txtbox.Text))
+            {
+                stdfname_ind_lbl.Text = "First Name cannot be empty";
+                stdfname_ind_lbl.ForeColor = Color.Red;
+            }
+            else if (string.IsNullOrEmpty(stdlname_txtbox.Text))
+            {
+                stdlname_ind_lbl.Text = "Last Name cannot be empty";
+                stdlname_ind_lbl.ForeColor = Color.Red;
+            }
+            else if (!IsAllLetters(stdfname_txtbox.Text))
+            {
+                stdfname_ind_lbl.Text = "First Name must only contain letters";
+                stdfname_ind_lbl.ForeColor = Color.Red;
+            }
+            else if(!IsAllLetters(stdlname_txtbox.Text))
+            {
+                stdlname_ind_lbl.Text = "Last Name must only contain letters";
+                stdlname_ind_lbl.ForeColor = Color.Red;
+            }
+            else if (stdfname_txtbox.Text.Length > 10)
+            {
+                stdfname_ind_lbl.Text = "First Name cannot be greater than 10 characters";
+                stdfname_ind_lbl.ForeColor = Color.Red;
+            }
+            else if (stdlname_txtbox.Text.Length > 10)
+            {
+                stdlname_ind_lbl.Text = "Last Name cannot be greater than 10 characters";
+                stdlname_ind_lbl.ForeColor = Color.Red;
+            }
+            else if (stdcontact_txtbox.Text.Length < 11)
+            {
+                stdcontact_ind_lbl.Text = "Length of phone number must be 11";
+                stdcontact_ind_lbl.ForeColor = Color.Red;
+            }
+            else if(string.IsNullOrEmpty(stdcontact_txtbox.Text))
+            {
+                stdcontact_ind_lbl.Text = "Phone number cannot be empty";
+                stdcontact_ind_lbl.ForeColor = Color.Red;
+            }
+            else if (!int.TryParse(stdcontact_txtbox.Text, out int value))
+            {
+                stdcontact_ind_lbl.Text = "Phone number cannot contain letters or other symbols";
+                stdcontact_ind_lbl.ForeColor = Color.Red;
+            }
+            else if (string.IsNullOrEmpty(stdemail_txtbox.Text)) 
+            { 
+                stdemail_ind_lbl.Text = "Email cannot be empty";
+                stdemail_ind_lbl.ForeColor = Color.Red;
+            }
+            else if(!Regex.IsMatch(stdemail_txtbox.Text, @"^[^@\s]+@[^@\s]+\.[^@\s]+$"))
+            {
+                stdemail_ind_lbl.Text = "Invalid Email Format";
+                stdemail_ind_lbl.ForeColor = Color.Red;
+            }
+            else if (string.IsNullOrEmpty(stdregnum_txtbox.Text))
+            {
+                stdregnum_ind_lbl.Text = "Registration number cannot be empty";
+                stdregnum_ind_lbl.ForeColor = Color.Red;
+            }
+            else if (!Regex.IsMatch(stdregnum_txtbox.Text, @"^2021-CS-\d+$"))
+            {
+                stdregnum_ind_lbl.Text = "Invalid Registration Number format";
+                stdregnum_ind_lbl.ForeColor = Color.Red;
+            }
+            else if (EntryAlreadyExists(stdregnum_txtbox.Text, 5))
+            {
+                MessageBox.Show("Registraion Number already Exists");
+            }
