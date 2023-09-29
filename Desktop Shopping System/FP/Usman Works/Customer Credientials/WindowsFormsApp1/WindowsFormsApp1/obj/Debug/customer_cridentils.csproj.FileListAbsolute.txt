@@ -1,0 +1,10 @@
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Credientials\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Credientials\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Credientials\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Credientials\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\customer_cridentils.csproj.AssemblyReference.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Credientials\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\customer_cridentils.csproj.SuggestedBindingRedirects.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Credientials\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Credientials\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\customer_cridentils.csproj.GenerateResource.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Credientials\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\customer_cridentils.csproj.CoreCompileInputs.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Credientials\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Credientials\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

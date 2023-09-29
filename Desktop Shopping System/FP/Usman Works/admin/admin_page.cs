@@ -1,0 +1,74 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace final_gui_Template
+{
+    public partial class admin_page : Form
+    {
+        public admin_page()
+        {
+            InitializeComponent();
+        }
+
+     
+        private Form activeForm = null;
+        private void openChildFormInPanel(Form childForm)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            activeForm = childForm;
+            childForm.TopLevel = false;
+            childForm.FormBorderStyle = FormBorderStyle.None;
+            childForm.Dock = DockStyle.Fill;
+            mainpanel.Controls.Add(childForm);
+            mainpanel.Tag = childForm;
+            childForm.BringToFront();
+            childForm.Show();
+        }
+
+        private void admin_page_Load(object sender, EventArgs e)
+        {
+        }
+
+        private void button12_Click_1(object sender, EventArgs e)
+        {
+            openChildFormInPanel(new users());
+        }
+
+        private void button4_Click_1(object sender, EventArgs e)
+        {
+
+            openChildFormInPanel(new supplier_info());
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+
+            openChildFormInPanel(new admin_cred());
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            string message = "Are you sure you want to log out?";
+            string title = "Confirm";
+            MessageBoxButtons buttons = MessageBoxButtons.YesNo;
+            DialogResult result = MessageBox.Show(message, title, buttons);
+            if (result == DialogResult.Yes)
+            {
+                this.Close();
+
+            }
+            else
+            {
+            }
+        }
+    }
+}

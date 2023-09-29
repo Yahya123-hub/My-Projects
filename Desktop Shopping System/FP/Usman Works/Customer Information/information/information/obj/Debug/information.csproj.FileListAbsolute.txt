@@ -1,0 +1,22 @@
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\bin\Debug\information.exe.config
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\bin\Debug\information.exe
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\bin\Debug\information.pdb
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\obj\Debug\information.csproj.AssemblyReference.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\obj\Debug\information.csproj.SuggestedBindingRedirects.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\obj\Debug\information.customer_info.resources
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\obj\Debug\information.Properties.Resources.resources
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\obj\Debug\information.csproj.GenerateResource.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\obj\Debug\information.csproj.CoreCompileInputs.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\obj\Debug\information.exe
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\Customer Information\information\information\obj\Debug\information.pdb
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\bin\Debug\information.exe.config
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\bin\Debug\information.exe
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\bin\Debug\information.pdb
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\obj\Debug\information.csproj.AssemblyReference.cache
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\obj\Debug\information.csproj.SuggestedBindingRedirects.cache
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\obj\Debug\information.customer_info.resources
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\obj\Debug\information.Properties.Resources.resources
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\obj\Debug\information.csproj.GenerateResource.cache
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\obj\Debug\information.csproj.CoreCompileInputs.cache
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\obj\Debug\information.exe
+C:\Users\42kha\OneDrive\Desktop\New folder\Usman Works\Customer Information\information\information\obj\Debug\information.pdb

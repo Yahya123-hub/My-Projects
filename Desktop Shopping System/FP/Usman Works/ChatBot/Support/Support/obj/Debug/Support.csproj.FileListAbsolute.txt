@@ -1,0 +1,13 @@
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\bin\Debug\Support.exe.config
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\bin\Debug\Support.exe
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\bin\Debug\Support.pdb
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\obj\Debug\Support.csproj.AssemblyReference.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\obj\Debug\Support.csproj.SuggestedBindingRedirects.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\obj\Debug\Support.chat.resources
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\obj\Debug\Support.Properties.Resources.resources
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\obj\Debug\Support.csproj.GenerateResource.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\obj\Debug\Support.csproj.CoreCompileInputs.cache
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\obj\Debug\Support.exe
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\obj\Debug\Support.pdb
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\bin\Debug\AIMLBot.dll
+C:\Users\42kha\Downloads\P\DB2021FinalProjectG-47\Usman Works\ChatBot\Support\Support\obj\Debug\Support.csproj.CopyComplete

@@ -1,0 +1,19 @@
+        /*Valid addresses:
+         * 123 Main St, Anytown USA 12345
+456 Maple Ave, Another City USA 67890-1234
+789 Elm St, Smalltown USA 987651234 Park Ave, San Francisco CA 94109
+5678 Market St, Philadelphia PA 19103-1234
+9012 Main St, Anytown USA 54321
+3456 Fifth Ave, New York NY 10016-8810
+7890 Beach Blvd, Huntington Beach CA 92648
+1234 Elm St, Houston TX 77030
+5678 Fourth St, Columbus OH 43201-1234
+9012 Lincoln Ave, Boston MA 02111
+3456 Washington St, San Diego CA 92103-6814
+7890 Madison Ave, Miami FL 33130
+        Invalid addresses:
+        1 Apple Way, Yet Another City USA (missing ZIP code)
+987 Oak St, Big City (missing state abbreviation and ZIP code)
+654 Pine Dr, Rural USA 123456 (ZIP code is too long)
+321 Cherry Blvd, City, State 12345 (unexpected comma after city name)
+555 Oak St, Some City 12345 (missing state abbreviation and country name)*/

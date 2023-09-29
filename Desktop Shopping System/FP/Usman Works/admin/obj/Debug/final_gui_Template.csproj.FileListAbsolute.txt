@@ -1,0 +1,61 @@
+E:\Semester 4\db\final gui\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\final gui\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\final gui\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.admin_page.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.users.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.admin_cred.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.supplier_info.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\bin\Debug\final_gui_Template.exe
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\bin\Debug\final_gui_Template.pdb
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.admin_cred.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.admin_page.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.supplier_info.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.users.resources
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.exe
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.pdb
+C:\Users\talha\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.customerUI.resources
+C:\Users\42kha\OneDrive\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+C:\Users\42kha\OneDrive\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+C:\Users\42kha\OneDrive\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.exe
+C:\Users\42kha\OneDrive\Desktop\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.pdb
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.admin_cred.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.admin_page.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.customerUI.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.supplier_info.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.users.resources
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.exe
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\obj\Debug\final_gui_Template.pdb
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\bin\Debug\final_gui_Template.exe
+C:\Users\42kha\OneDrive\Desktop\Daraz\DB2021FinalProjectG-47\final_gui_Template\bin\Debug\final_gui_Template.pdb

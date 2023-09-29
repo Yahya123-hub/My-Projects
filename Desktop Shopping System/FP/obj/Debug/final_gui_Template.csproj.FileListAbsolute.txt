@@ -1,0 +1,1340 @@
+E:\Semester 4\db\final gui\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\final gui\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\final gui\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\final gui\final_gui_Template\bin\Debug\Emgu.CV.dll
+E:\Semester 4\db\final gui\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\final gui\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\13\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\14\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\15\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\16\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\17\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\18\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\20\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\21\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\22\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\23\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\24\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\25\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\26\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\LiveCharts.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\LiveCharts.WinForms.xml
+E:\Semester 4\db\fp backups\26\final_gui_Template\bin\Debug\LiveCharts.Wpf.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\LiveCharts.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\LiveCharts.WinForms.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\LiveCharts.Wpf.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\27\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.admin_cred.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.admin_page.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\Support.chat.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\WindowsFormsApp2.customer_crediential.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\information.customer_info.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.supplier_info.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.users.resources
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\Combined\final_gui_Template\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.admin_cred.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.admin_page.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\Support.chat.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\WindowsFormsApp2.customer_crediential.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\information.customer_info.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.supplier_info.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.users.resources
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\LiveCharts.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\LiveCharts.WinForms.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\LiveCharts.Wpf.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\Combined\FP\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\Combined\FP\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\LiveCharts.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\LiveCharts.WinForms.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\LiveCharts.Wpf.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.admin_cred.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.admin_page.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\Support.chat.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\WindowsFormsApp2.customer_crediential.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\information.customer_info.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.login.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.supplier_info.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.users.resources
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\Combined - Copy\FP\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\LiveCharts.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\LiveCharts.WinForms.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\LiveCharts.Wpf.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.admin_cred.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.admin_page.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\Support.chat.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\WindowsFormsApp2.customer_crediential.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\information.customer_info.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.login.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.supplier_info.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.users.resources
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\Combined_Final\FP\obj\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\final_gui_Template.exe.config
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\final_gui_Template.pdb
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\DevExpress.Data.v22.2.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\DevExpress.Utils.v22.2.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\Emgu.CV.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\LiveCharts.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\LiveCharts.WinForms.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\LiveCharts.Wpf.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\Newtonsoft.Json.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\RestSharp.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Buffers.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.CodeDom.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Data.Odbc.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Data.OleDb.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Data.SqlClient.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Drawing.Common.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.IO.Packaging.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.IO.Ports.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Memory.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Numerics.Vectors.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Security.AccessControl.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Security.Permissions.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Security.Principal.Windows.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\System.Threading.AccessControl.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.AssemblyReference.cache
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.SuggestedBindingRedirects.cache
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.admin_cred.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.admin_page.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.browse_products.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.cart.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\Support.chat.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.Customer.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\WindowsFormsApp2.customer_crediential.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\information.customer_info.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.Feedback.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.item.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.login.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.orders.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.payment_history.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.Recommendations.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.Refund.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.reports.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.sell_products.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.submit_application.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.Properties.Resources.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.supplier_info.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.Supplier_page.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.sup_manage_cred.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.users.resources
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.GenerateResource.cache
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.CoreCompileInputs.cache
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.Fody.CopyLocal.cache
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.csproj.CopyComplete
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.exe
+E:\Semester 4\db\fp backups\FINAL COMMIT\Combined_Final\FP\obj\Debug\final_gui_Template.pdb
